@@ -59,9 +59,9 @@ To use the project, follow these steps:
 
 Here are some examples of the image processing operations available in this project:
 
-![Example 1](path/to/example_1.png)
-![Example 2](path/to/example_2.png)
-![Example 3](path/to/example_3.png)
+![Example 1](https://github.com/AndreaAlberti07/Image-Processing/blob/main/Examples/DCT_compression.png)
+![Example 2](https://github.com/AndreaAlberti07/Image-Processing/blob/main/Examples/Denoise_salt_pepper.png)
+![Example 3](https://github.com/AndreaAlberti07/Image-Processing/blob/main/Examples/Wavelet_details.png)
 
 ## License
 
