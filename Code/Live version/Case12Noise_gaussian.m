@@ -1,0 +1,1 @@
+DenoiseGaussian(img);

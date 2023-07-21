@@ -1,0 +1,1 @@
+DenoiseSP(img);
